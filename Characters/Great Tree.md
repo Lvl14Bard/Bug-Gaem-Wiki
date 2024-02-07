@@ -1,4 +1,4 @@
 # Great Tree
 Status: #InProgress 
-Links: [[Lore]]
+Links: [[Characters]] [[Lore]]
 ___

@@ -1,4 +1,4 @@
 # Lunalesca
 Status: #InProgress 
-Links: [[Lore]]
+Links: [[Characters]] [[Lore]]
 ___

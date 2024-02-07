@@ -1,6 +1,6 @@
 # Trice's Father
 Status: #InProgress
-Links: [[Trice]] [[Yellow Jacket]]
+Links: [[Trice]] [[Yellow Jacket]] [[Characters]]
 ___
 ## Stats
 - [[HP]]: 
@@ -14,7 +14,6 @@ ___
 
 
 ## Abilities
-# Trice's Father
-Status: #InProgress 
-Links: [[Trice]] [[Characters]]
-___
+
+
+## Events
