@@ -1,16 +1,17 @@
 # {{title}}
 Status: #InProgress
-Links:
+Links: [[Characters]]
 ___
 ## Stats
 - [[HP]]: 
 - [[AP]]:
+- [[Init]]:
 
 ## Art
 - **Concept:**
 - **Sprite:**
 
-## Backstory
+## Lore
 
 
 ## Abilities

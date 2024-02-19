@@ -1,10 +1,11 @@
-# Trice's Father
+# Triss' Father
 Status: #InProgress
-Links: [[Trice]] [[Yellow Jacket]] [[Characters]]
+Links: [[Triss]] [[Yellow Jacket]] [[Characters]] [[Unit]]
 ___
 ## Stats
 - [[HP]]: 
 - [[AP]]:
+- [[Init]]:
 
 ## Art
 - **Concept:**

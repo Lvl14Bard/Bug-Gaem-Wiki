@@ -11,11 +11,28 @@
             "id": "b7227ac667f418e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ZZZ_Templates/Ability Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ac41fb4407c90a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/100th Bug Brigade/Zephyr.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "5aab318c1fd5c4d9",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/100th Bug Brigade/Zephyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/100th Bug Brigade/Zephyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/100th Bug Brigade/Zephyr.md"
+              }
             }
           },
           {
@@ -151,44 +173,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7227ac667f418e2",
+  "active": "9ac41fb4407c90a9",
   "lastOpenFiles": [
-    "Characters/Lunalesca.md",
-    "How to Use this Wiki.md",
-    "Abilities/Abilities.md",
-    "Lore/Lore.md",
-    "Guides/Guides.md",
-    "Map/Map.md",
-    "Map/Fountain.md",
-    "Characters/Great Tree.md",
-    "Characters/Zephyr's Parent.md",
-    "Characters/Characters.md",
-    "Characters/Robugs/Trice's Father.md",
-    "Characters/100th Bug Brigade/Atlas.md",
-    "Characters/100th Bug Brigade/Lumoth.md",
+    "Characters/100th Bug Brigade/Triss.md",
     "Characters/100th Bug Brigade/Paramantis.md",
-    "Characters/100th Bug Brigade/Trice.md",
+    "Characters/100th Bug Brigade/Lumoth.md",
+    "Abilities/Leap.md",
+    "Abilities/Horn Toss.md",
+    "Characters/100th Bug Brigade/Atlas.md",
+    "Abilities/Grapple.md",
+    "ZZZ_Templates/Ability Page.md",
+    "ZZZ_Templates/Basic Page.md",
+    "Abilities/Heal.md",
+    "ZZZ_Templates/Lore Page.md",
+    "Throw.md",
+    "AAA_Core Nodes/Abilities.md",
+    "Abilities/Untitled.md",
+    "AAA_Core Nodes/Unit.md",
+    "AAA_Core Nodes/Systems.md",
+    "AAA_Core Nodes/Map.md",
+    "AAA_Core Nodes/Lore.md",
+    "AAA_Core Nodes/Events.md",
+    "AAA_Core Nodes/Characters.md",
+    "ZZZ_Assets/Bug Gaem Triss ref.png",
+    "ZZZ_Assets/Bug Gaem Lumoth ref.png",
+    "ZZZ_Assets",
+    "ZZZ_Assets/Bug Gaem Para-Mantis ref.png",
+    "ZZZ_Assets/f.png",
+    "Characters/Robugs/Triss' Father.md",
     "Characters/100th Bug Brigade/Zephyr.md",
-    "Events/Events.md",
-    "Lore/100th Bug Brigade.md",
-    "Lore/Beetle.md",
-    "Lore/Yellow Jacket.md",
-    "Lore/Praying Mantis.md",
     "Systems/AP.md",
     "Systems/Cooldown.md",
     "Systems/Death.md",
     "Systems/HP.md",
-    "Systems/Movement.md",
+    "AAA_Core Nodes",
+    "Untitled.canvas",
     "Events",
     "Characters/Robugs",
     "Characters/100th Bug Brigade",
-    "Untitled.canvas",
     "Map",
     "Abilities",
     "Excalidraw",
     "Systems",
-    "Lore",
-    "Guides",
-    "Characters"
+    "Lore"
   ]
 }
