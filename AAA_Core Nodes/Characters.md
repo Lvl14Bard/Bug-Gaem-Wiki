@@ -14,7 +14,14 @@ All units
 - [[Triss]], a half-[[Bee]] half-[[Yellow Jacket]] child of nobility
 - [[Paramantis]], a parasitic symbiotic relationship between a [[Praying Mantis]] and a fungal [[Parasite]]
 
-### Robugs
+### Robugs (Enemies)
+
+- [[Robo Poly]]
+- [[Termitator]]
+- [[Yellowjacket Grunt]]
+- [[Millibyte]]
+
+### Robugs (Bosses)
 
 - [[Triss' Father]], the [[Yellow Jacket]] leading a faction against the [[Great Tree]]
 

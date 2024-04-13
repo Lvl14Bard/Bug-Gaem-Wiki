@@ -1,11 +1,10 @@
-# Atlas
 Status: #InProgress
 Links: [[Characters]] [[Unit]]
 ___
 ## Stats
 - [[HP]]: 12
-- [[AP]]: 12
-- [[Init]]: 20
+- [[AP]]: 8
+- [[Init]]: 25
 
 ## Art
 - **Concept:**![[f.png]]
@@ -17,6 +16,6 @@ The mighty veteran Beetle, and friend of Zephyr. Atlas was a war hero in her pri
 ## Abilities
 - [[Grapple]]
 - [[Horn Toss]]
-- [[Leap]]
+- [[Empower]]
 
 ## Events

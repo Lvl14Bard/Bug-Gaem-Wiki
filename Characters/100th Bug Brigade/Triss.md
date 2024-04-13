@@ -4,8 +4,8 @@ Links: [[Characters]] [[Unit]]
 ___
 ## Stats
 - [[HP]]: 8
-- [[AP]]: 10
-- [[Init]]: 30
+- [[AP]]: 8
+- [[Init]]: 20
 
 ## Art
 - **Concept:**![[Bug Gaem Triss ref.png]]
@@ -17,3 +17,4 @@ A bastard child of [[Bee]] and [[Yellow Jacket]] nobility. Known for her wicked 
 ## Abilities
 - [[Sting]]
 - [[Carry]]
+- [[Sacrifice Sting]]

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b89be2f4a3cef17d",
+        "id": "4bc7ccaaf6982a69",
         "type": "tabs",
         "children": [
           {
-            "id": "b7227ac667f418e2",
+            "id": "7faf3246e78806b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZ_Templates/Ability Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac41fb4407c90a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/100th Bug Brigade/Zephyr.md",
+                "file": "AAA_Core Nodes/Characters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "5aab318c1fd5c4d9",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/100th Bug Brigade/Zephyr.md",
+                "file": "AAA_Core Nodes/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/100th Bug Brigade/Zephyr.md",
+                "file": "AAA_Core Nodes/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/100th Bug Brigade/Zephyr.md"
+                "file": "AAA_Core Nodes/Characters.md"
               }
             }
           },
@@ -173,41 +159,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ac41fb4407c90a9",
+  "active": "7faf3246e78806b0",
   "lastOpenFiles": [
+    "Characters/100th Bug Brigade/Lumoth.md",
+    "Blood Moon.md",
+    "Abilities/Heal.md",
+    "AAA_Core Nodes/Characters.md",
     "Characters/100th Bug Brigade/Triss.md",
     "Characters/100th Bug Brigade/Paramantis.md",
-    "Characters/100th Bug Brigade/Lumoth.md",
-    "Abilities/Leap.md",
-    "Abilities/Horn Toss.md",
     "Characters/100th Bug Brigade/Atlas.md",
-    "Abilities/Grapple.md",
-    "ZZZ_Templates/Ability Page.md",
-    "ZZZ_Templates/Basic Page.md",
-    "Abilities/Heal.md",
-    "ZZZ_Templates/Lore Page.md",
-    "Throw.md",
-    "AAA_Core Nodes/Abilities.md",
-    "Abilities/Untitled.md",
-    "AAA_Core Nodes/Unit.md",
+    "Abilities/Empower.md",
+    "Abilities/Horn Toss.md",
+    "Millibyte.md",
+    "Stretch Attack.md",
+    "Purebred Sting.md",
+    "Yellowjacket Grunt.md",
+    "Termitator.md",
+    "Chainsaw Boomerang.md",
+    "Robo Poly.md",
+    "Flail.md",
+    "Enemies.md",
     "AAA_Core Nodes/Systems.md",
-    "AAA_Core Nodes/Map.md",
-    "AAA_Core Nodes/Lore.md",
-    "AAA_Core Nodes/Events.md",
-    "AAA_Core Nodes/Characters.md",
+    "ZZZ_Templates/Systems Page.md",
+    "AAA_Core Nodes/Unit.md",
+    "Characters/100th Bug Brigade/Zephyr.md",
+    "Abilities/Grapple.md",
+    "Characters/Robugs/Triss' Father.md",
+    "How to Use this Wiki.md",
+    "The Lady Bug.md",
+    "ZZZ_Assets/image.png",
+    "Untitled.canvas",
     "ZZZ_Assets/Bug Gaem Triss ref.png",
     "ZZZ_Assets/Bug Gaem Lumoth ref.png",
     "ZZZ_Assets",
     "ZZZ_Assets/Bug Gaem Para-Mantis ref.png",
     "ZZZ_Assets/f.png",
-    "Characters/Robugs/Triss' Father.md",
-    "Characters/100th Bug Brigade/Zephyr.md",
-    "Systems/AP.md",
-    "Systems/Cooldown.md",
-    "Systems/Death.md",
-    "Systems/HP.md",
     "AAA_Core Nodes",
-    "Untitled.canvas",
     "Events",
     "Characters/Robugs",
     "Characters/100th Bug Brigade",
