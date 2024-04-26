@@ -2,7 +2,7 @@ Status: #InProgress
 Links: [[Abilities]] [[Lumoth]]
 ___
 # Stats
-- **AP Cost:** 2
+- **AP Cost:** 4
 - **Cooldown:** 0
 - **Range:** 1
 - **Action:** Attack enemy (melee) for 1 DMG, damage dealt is added to next Heal

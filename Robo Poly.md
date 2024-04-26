@@ -4,7 +4,7 @@ ___
 ## Stats
 - [[HP]]: 3
 - [[AP]]: 6
-- [[Init]]: 28
+- [[Init]]: 20±10
 
 ## Art
 - **Concept:

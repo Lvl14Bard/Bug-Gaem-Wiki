@@ -27,8 +27,8 @@ All units
 
 ### Other Characters
 
-- [[The Lady Bug]], targeted VIP who has been robotized
+- [[The Lady Bug]], ruler of the bugs
 - [[The Queen Bee]], mother of [[Triss]] and a member of the nobility
-- [[Zephyr's Parent]]
+- [[Zephyr's Parent]], leader of the 1st Bug Brigade guarding the Lady Bug
 - [[Firefly]], friend of Lumoth
 - [[Serenity]], high priestess of [[Lunalesca]]
