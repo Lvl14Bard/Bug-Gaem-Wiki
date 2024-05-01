@@ -10,3 +10,5 @@ ___
 # Notes
 
 Triss' primary move. Costs 1 HP to use.
+
+**Animation**: Triss backs up and jolts forward, turning herself so that her stinger stabs the target.

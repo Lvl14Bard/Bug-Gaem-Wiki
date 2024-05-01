@@ -10,6 +10,8 @@ ___
 - **Concept:
 - **Sprite:**
 
+Idle Animation: Emits burst of steam from pipes. Blinks.
+
 ## Lore
 
 

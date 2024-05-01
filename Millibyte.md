@@ -10,6 +10,8 @@ ___
 - **Concept:
 - **Sprite:**
 
+Idle Animation: Moves the front of its body forward and back a bit.
+
 ## Lore
 
 

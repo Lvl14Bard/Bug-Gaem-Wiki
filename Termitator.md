@@ -10,6 +10,7 @@ ___
 - **Concept:
 - **Sprite:**
 
+Idle Animation: Rubs chainsaws together, creating sparks.
 ## Lore
 
 

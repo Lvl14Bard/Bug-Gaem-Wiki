@@ -10,3 +10,5 @@ ___
 # Notes
 
 Lumoth's primary ability. Heals 3 HP to ally.
+
+**Animation**: Lumoth raises her arms and purple light beams rise up from the bottom of the target to the top. A red heart swells up above the target with a white arrow pointing up inside it.

@@ -14,3 +14,5 @@ This move deals 2 damage, but in the form of doing 1 damage twice. The Termitato
 I think this is only an aesthetic difference for now. However, if we add any reactive gambits that react to being hit, those will trigger twice, once for each hit of the chainsaw boomerang.
 
 This move uses all of the Termitator's AP, so it cannot move and attack in the same turn. This is there to counteract the range of this move. If you get hit by it, it's your own fault for getting within range of the Termitator and not managing to kill it before it attacks.
+
+**Animation**: The Termitator throws a spinning chainsaw forward. It leans forward to throw it and returns to normal when it catches it. The chainsaw moves quickly near The Termitator and moves slower while it is near its target of 4 spaces away, even remaining still over that target space for a moment. The chainsaw spins as it moves throughout all of this.

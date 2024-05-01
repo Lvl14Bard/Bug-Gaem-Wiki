@@ -9,3 +9,5 @@ ___
 # Notes
 
 Paramantis' primary ability.
+
+**Animation**: Paramantis holds their hands together, to their side, then sharply stabs into the enemy with them.

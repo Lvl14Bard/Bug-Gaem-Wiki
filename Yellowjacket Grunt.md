@@ -10,6 +10,8 @@ ___
 - **Concept:
 - **Sprite:**
 
+Idle Animation: Floats up and down a bit.
+
 ## Lore
 
 

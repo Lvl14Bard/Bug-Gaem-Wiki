@@ -10,3 +10,5 @@ ___
 # Notes
 
 Atlas' secondary ability. Probably going to be more of a "push" than a "toss" and will be renamed as soon as we think of something catchier than "horn push".
+
+**Animation**: Atlas bends her head down and rears it up abruptly, so her horn gets under the target and launches them through the air. (It doesn't need to interact with the target animation itself, but this is the impression the player should get.) The target spins around until they land.
