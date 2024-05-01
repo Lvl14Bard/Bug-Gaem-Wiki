@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md",
+                "file": "Abilities/Fury Skewer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md",
+                "file": "Abilities/Fury Skewer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md",
+                "file": "Abilities/Fury Skewer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md"
+                "file": "Abilities/Fury Skewer.md"
               }
             }
           },
@@ -162,10 +162,10 @@
   "active": "7faf3246e78806b0",
   "lastOpenFiles": [
     "Characters/Robugs/Thor'axe.md",
+    "AAA_Core Nodes/Characters.md",
     "Abilities/Fury Skewer.md",
     "Abilities/Chloroblast.md",
     "Abilities/Chainsaw Boomerang.md",
-    "AAA_Core Nodes/Characters.md",
     "Millibyte.md",
     "Abilities/Stretch Attack.md",
     "Robo Poly.md",
