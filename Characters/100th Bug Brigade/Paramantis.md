@@ -18,6 +18,6 @@ A hideous outcast, two rivaling minds in one body, a [[Praying Mantis]] and a se
 This has been retooled a bit so when we meet Paramantis, they have already completed this conflict and reached a peaceful symbiosis. Paramantis now sees beyond the bugs' warrior culture and into the greater cycle of life.
 
 ## Abilities
-- [[Splinter Slash]]
+- [[Poison Slash]]
 - [[X-Swipes]]
 - [[Pheromones]]

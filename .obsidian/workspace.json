@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abilities/Fury Skewer.md",
+                "file": "AAA_Core Nodes/Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abilities/Fury Skewer.md",
+                "file": "AAA_Core Nodes/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abilities/Fury Skewer.md",
+                "file": "AAA_Core Nodes/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abilities/Fury Skewer.md"
+                "file": "AAA_Core Nodes/Characters.md"
               }
             }
           },
@@ -161,9 +161,14 @@
   },
   "active": "7faf3246e78806b0",
   "lastOpenFiles": [
-    "Characters/Robugs/Thor'axe.md",
+    "Characters/100th Bug Brigade/Paramantis.md",
+    "Abilities/Pheromones.md",
+    "Abilities/X-Swipes.md",
+    "Abilities/Poison Slash.md",
     "AAA_Core Nodes/Characters.md",
+    "AAA_Core Nodes/Abilities.md",
     "Abilities/Fury Skewer.md",
+    "Characters/Robugs/Thor'axe.md",
     "Abilities/Chloroblast.md",
     "Abilities/Chainsaw Boomerang.md",
     "Millibyte.md",
@@ -174,10 +179,6 @@
     "Yellowjacket Grunt.md",
     "Abilities/Purebred Sting.md",
     "Abilities/Sting.md",
-    "Characters/100th Bug Brigade/Paramantis.md",
-    "Abilities/Pheromones.md",
-    "Abilities/Splinter Slash.md",
-    "Abilities/X-Swipes.md",
     "Characters/100th Bug Brigade/Triss.md",
     "Abilities/Sacrifice Sting.md",
     "Abilities/Carry.md",
@@ -186,7 +187,6 @@
     "Abilities/Shield.md",
     "Abilities/Heal.md",
     "Characters/100th Bug Brigade/Atlas.md",
-    "Abilities/Empower.md",
     "ZZZ_Assets/image.png",
     "Untitled.canvas",
     "ZZZ_Assets/Bug Gaem Triss ref.png",
