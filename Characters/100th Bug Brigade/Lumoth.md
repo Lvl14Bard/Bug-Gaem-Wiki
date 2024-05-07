@@ -18,5 +18,5 @@ A lowly priestess of [[Lunalesca]], the Moth goddess of the Moon. The [[Cult of 
 
 ## Abilities
 -  [[Heal]]
+-  [[Blood Moon]]
 - [[Shield]]
-- [[Blood Moon]]

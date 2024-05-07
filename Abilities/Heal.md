@@ -5,8 +5,8 @@ ___
 # Stats
 - **AP Cost:** 6
 - **Cooldown:** 0
-- **Range:** 1
-- **Action:** Heals target 1 tile away
+- **Range:** 3
+- **Action:** Heals target within 3 tiles of self
 # Notes
 
 Lumoth's primary ability. Heals 3 HP to ally.

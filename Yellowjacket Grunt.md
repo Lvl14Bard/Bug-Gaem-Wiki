@@ -3,7 +3,7 @@ Links: [[Characters]] [[Enemies]]
 ___
 ## Stats
 - [[HP]]: 7
-- [[AP]]: 6
+- [[AP]]: 9
 - [[Init]]: 18±5
 
 ## Art

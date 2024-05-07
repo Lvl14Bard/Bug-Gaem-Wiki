@@ -3,7 +3,8 @@ Status: #InProgress
 Links: [[Triss]] [[Yellow Jacket]] [[Characters]] [[Unit]]
 ___
 ## Stats
-- [[HP]]: 20
+
+- [[HP]]: 20 (Garden of Lights), 30 (Final Boss)
 - [[AP]]: 11
 - [[Init]]: 33
 
@@ -20,7 +21,9 @@ Triss' father. I remember reading he was the Yellowjacket leader / king, so I gu
 
 ## Abilities
 
-[[Chloroblast]]
-[[Fury Skewer]]
+[[Chloroblast]] (Garden of Lights Phase 1)
+[[Fury Skewer]] (Garden of Lights Phase 2, Final Boss Phase 1)
 
 ## Events
+
+Final Boss: Thor'axe has been roboticized and has a passive increasing his attack power by 2. His new HP of 30 instead of 20 can also be handled as a passive, if that makes things easier to program.

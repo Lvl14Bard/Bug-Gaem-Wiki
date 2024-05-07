@@ -3,7 +3,7 @@ Status: #InProgress
 Links: [[Abilities]] [[Termitator]]
 ___
 # Stats
-- **AP Cost:** 4
+- **AP Cost:** 6
 - **Cooldown:** 1
 - **Range:** 4
 - **Action:** Throws Chainsaw Boomerang 4 tiles ahead in a cardinal direction.

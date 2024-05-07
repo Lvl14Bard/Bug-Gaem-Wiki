@@ -24,7 +24,7 @@ All units
 ### Robugs (Bosses)
 
 - [[Thor'axe]], the [[Yellow Jacket]] leading a faction against the [[Great Tree]]
--  [[Zephyr's Father]], leader of the 1st Bug Brigade guarding the Lady Bug
+
 - [[Drone]], the Robugs' commander
 
 ### Other Characters
@@ -33,3 +33,4 @@ All units
 - [[The Queen Bee]], mother of [[Triss]] and a member of the nobility
 - [[Firefly]], friend of Lumoth
 - [[Serenity]], high priestess of [[Lunalesca]]
+- [[Zephyr's Father]], leader of the 1st Bug Brigade guarding the Lady Bug

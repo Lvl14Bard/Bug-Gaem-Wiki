@@ -3,7 +3,7 @@ Status: #InProgress
 Links: [[Abilities]] [[Yellowjacket Grunt]]
 ___
 # Stats
-- **AP Cost:** 4
+- **AP Cost:** 6
 - **Cooldown:** 1
 - **Range:** Melee
 - **Action:** Stings a tile, dealing 3 damage.
