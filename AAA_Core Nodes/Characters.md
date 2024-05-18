@@ -24,7 +24,7 @@ All units
 ### Robugs (Bosses)
 
 - [[Thor'axe]], the [[Yellow Jacket]] leading a faction against the [[Great Tree]]
-
+- [[Atlas]], when roboticized
 - [[Drone]], the Robugs' commander
 
 ### Other Characters

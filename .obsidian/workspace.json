@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md",
+                "file": "Characters/100th Bug Brigade/Atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md",
+                "file": "Characters/100th Bug Brigade/Atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md",
+                "file": "Characters/100th Bug Brigade/Atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA_Core Nodes/Characters.md"
+                "file": "Characters/100th Bug Brigade/Atlas.md"
               }
             }
           },
@@ -161,9 +161,16 @@
   },
   "active": "7faf3246e78806b0",
   "lastOpenFiles": [
+    "Abilities/Knockback.md",
+    "Characters/100th Bug Brigade/Atlas.md",
+    "AAA_Core Nodes/Characters.md",
+    "Abilities/Flail.md",
+    "Robo Poly.md",
+    "Characters/100th Bug Brigade/Paramantis.md",
+    "Characters/100th Bug Brigade/Lumoth.md",
+    "Drone.md",
     "Characters/Robugs/Thor'axe.md",
     "Abilities/Fury Skewer.md",
-    "AAA_Core Nodes/Characters.md",
     "Characters/Zephyr's Father.md",
     "Garden of Lights.md",
     "Abilities/Chloroblast.md",
@@ -171,22 +178,15 @@
     "Abilities/Stretch Attack.md",
     "Yellowjacket Grunt.md",
     "Abilities/Purebred Sting.md",
-    "Robo Poly.md",
-    "Abilities/Flail.md",
     "Termitator.md",
     "Abilities/Chainsaw Boomerang.md",
-    "Characters/100th Bug Brigade/Lumoth.md",
     "Abilities/Blood Moon.md",
     "Abilities/Shield.md",
     "Abilities/Heal.md",
     "Characters/100th Bug Brigade/Triss.md",
     "Abilities/Carry.md",
-    "Characters/100th Bug Brigade/Paramantis.md",
     "Abilities/Pheromones.md",
     "Abilities/X-Swipes.md",
-    "Abilities/Poison Slash.md",
-    "AAA_Core Nodes/Abilities.md",
-    "Abilities/Sting.md",
     "ZZZ_Assets/image.png",
     "Untitled.canvas",
     "ZZZ_Assets/Bug Gaem Triss ref.png",

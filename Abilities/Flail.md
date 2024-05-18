@@ -3,7 +3,7 @@ Status: #InProgress
 Links: [[Abilities]] [[Robo Poly]]
 ___
 # Stats
-- **AP Cost:** 5
+- **AP Cost:** 3
 - **Cooldown:** 1
 - **Range:** Melee
 - **Action:** Weakest possible melee attack. Does 1 damage.

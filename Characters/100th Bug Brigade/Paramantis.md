@@ -4,7 +4,7 @@ Links: [[Characters]] [[Unit]]
 ___
 ## Stats
 - [[HP]]: 12
-- [[AP]]: 4
+- [[AP]]: 6
 - [[Init]]: 30
 
 ## Art

@@ -2,8 +2,8 @@ Status: #InProgress
 Links: [[Characters]] [[Unit]]
 ___
 ## Stats
-- [[HP]]: 12
-- [[AP]]: 8
+- [[HP]]: 12 (Roboticized: 16)
+- [[AP]]: 8 (Roboticized: 12)
 - [[Init]]: 30
 
 ## Art
@@ -21,3 +21,7 @@ The mighty veteran Beetle, and friend of Zephyr. Atlas was a war hero in her pri
 - [[Empower]]
 
 ## Events
+
+In the Garden of Lights, Atlas has a passive active that increases her HP, AP and Attack Power (of Knockback) +2.
+
+Atlas is a boss fight in the second Cathedral of Moths stage. This is technically a separate unit. Here, her only move is Knockback, but it's much stronger in this form, as detailed on that page.
