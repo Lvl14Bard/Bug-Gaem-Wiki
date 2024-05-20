@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/100th Bug Brigade/Atlas.md",
+                "file": "Abilities/Fire Gun.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/100th Bug Brigade/Atlas.md",
+                "file": "Abilities/Fire Gun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/100th Bug Brigade/Atlas.md",
+                "file": "Abilities/Fire Gun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/100th Bug Brigade/Atlas.md"
+                "file": "Abilities/Fire Gun.md"
               }
             }
           },
@@ -161,12 +161,14 @@
   },
   "active": "7faf3246e78806b0",
   "lastOpenFiles": [
-    "Abilities/Knockback.md",
+    "Termitator.md",
+    "Characters/100th Bug Brigade/Paramantis.md",
+    "Abilities/Poison Slash.md",
     "Characters/100th Bug Brigade/Atlas.md",
+    "Abilities/Knockback.md",
     "AAA_Core Nodes/Characters.md",
     "Abilities/Flail.md",
     "Robo Poly.md",
-    "Characters/100th Bug Brigade/Paramantis.md",
     "Characters/100th Bug Brigade/Lumoth.md",
     "Drone.md",
     "Characters/Robugs/Thor'axe.md",
@@ -178,15 +180,13 @@
     "Abilities/Stretch Attack.md",
     "Yellowjacket Grunt.md",
     "Abilities/Purebred Sting.md",
-    "Termitator.md",
-    "Abilities/Chainsaw Boomerang.md",
+    "Abilities/Fire Gun.md",
     "Abilities/Blood Moon.md",
     "Abilities/Shield.md",
     "Abilities/Heal.md",
     "Characters/100th Bug Brigade/Triss.md",
     "Abilities/Carry.md",
     "Abilities/Pheromones.md",
-    "Abilities/X-Swipes.md",
     "ZZZ_Assets/image.png",
     "Untitled.canvas",
     "ZZZ_Assets/Bug Gaem Triss ref.png",

@@ -12,4 +12,4 @@ This is used by [[Thor'axe]] from the center of the [[Garden of Lights]]. He use
 
 Name TBD; this name was from when it was an energy blast.
 
-**Animation**: Same idea as [[Chainsaw Boomerang]].
+**Animation**: Same idea as [[Fire Gun]].

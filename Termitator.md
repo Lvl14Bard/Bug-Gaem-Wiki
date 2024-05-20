@@ -15,4 +15,4 @@ Idle Animation: Rubs chainsaws together, creating sparks.
 
 
 ## Abilities
-- [[Chainsaw Boomerang]]
+- [[Fire Gun]]
