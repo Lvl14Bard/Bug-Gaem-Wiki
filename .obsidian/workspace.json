@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firefly.md",
+                "file": "Characters/100th Bug Brigade/Lumoth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firefly.md",
+                "file": "Characters/100th Bug Brigade/Lumoth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firefly.md",
+                "file": "Characters/100th Bug Brigade/Lumoth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firefly.md"
+                "file": "Characters/100th Bug Brigade/Lumoth.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "7faf3246e78806b0",
   "lastOpenFiles": [
-    "Robo Poly.md",
+    "Abilities/Shield.md",
+    "Characters/100th Bug Brigade/Lumoth.md",
     "Firefly.md",
+    "Robo Poly.md",
     "AAA_Core Nodes/Characters.md",
     "Characters/100th Bug Brigade/Atlas.md",
     "Abilities/Fire Gun.md",
@@ -171,7 +173,6 @@
     "Abilities/Poison Slash.md",
     "Abilities/Knockback.md",
     "Abilities/Flail.md",
-    "Characters/100th Bug Brigade/Lumoth.md",
     "Drone.md",
     "Characters/Robugs/Thor'axe.md",
     "Abilities/Fury Skewer.md",
@@ -183,7 +184,6 @@
     "Yellowjacket Grunt.md",
     "Abilities/Purebred Sting.md",
     "Abilities/Blood Moon.md",
-    "Abilities/Shield.md",
     "Abilities/Heal.md",
     "Characters/100th Bug Brigade/Triss.md",
     "Abilities/Carry.md",

@@ -2,7 +2,7 @@ Status: #InProgress
 Links: [[Abilities]] [[Lumoth]]
 ___
 # Stats
-- **AP Cost:** 3
+- **AP Cost:** 4
 - **Cooldown:** 0
 - **Range:** 1
 - **Action:** Applies shield to target within 3 tiles of self
