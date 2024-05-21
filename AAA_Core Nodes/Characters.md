@@ -16,7 +16,7 @@ All units
 
 ### Robugs (Enemies)
 
-- [[Robo Poly]]
+- [[Robo Poly]] ([[Firefly]])
 - [[Termitator]]
 - [[Yellowjacket Grunt]]
 - [[Millibyte]]
@@ -31,6 +31,6 @@ All units
 
 - [[The Lady Bug]], ruler of the bugs
 - [[The Queen Bee]], mother of [[Triss]] and a member of the nobility
-- [[Firefly]], friend of Lumoth
+
 - [[Serenity]], high priestess of [[Lunalesca]]
 - [[Zephyr's Father]], leader of the 1st Bug Brigade guarding the Lady Bug

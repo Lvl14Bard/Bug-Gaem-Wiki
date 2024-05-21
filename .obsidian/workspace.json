@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abilities/Fire Gun.md",
+                "file": "Firefly.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abilities/Fire Gun.md",
+                "file": "Firefly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abilities/Fire Gun.md",
+                "file": "Firefly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abilities/Fire Gun.md"
+                "file": "Firefly.md"
               }
             }
           },
@@ -161,14 +161,16 @@
   },
   "active": "7faf3246e78806b0",
   "lastOpenFiles": [
+    "Robo Poly.md",
+    "Firefly.md",
+    "AAA_Core Nodes/Characters.md",
+    "Characters/100th Bug Brigade/Atlas.md",
+    "Abilities/Fire Gun.md",
     "Termitator.md",
     "Characters/100th Bug Brigade/Paramantis.md",
     "Abilities/Poison Slash.md",
-    "Characters/100th Bug Brigade/Atlas.md",
     "Abilities/Knockback.md",
-    "AAA_Core Nodes/Characters.md",
     "Abilities/Flail.md",
-    "Robo Poly.md",
     "Characters/100th Bug Brigade/Lumoth.md",
     "Drone.md",
     "Characters/Robugs/Thor'axe.md",
@@ -180,13 +182,11 @@
     "Abilities/Stretch Attack.md",
     "Yellowjacket Grunt.md",
     "Abilities/Purebred Sting.md",
-    "Abilities/Fire Gun.md",
     "Abilities/Blood Moon.md",
     "Abilities/Shield.md",
     "Abilities/Heal.md",
     "Characters/100th Bug Brigade/Triss.md",
     "Abilities/Carry.md",
-    "Abilities/Pheromones.md",
     "ZZZ_Assets/image.png",
     "Untitled.canvas",
     "ZZZ_Assets/Bug Gaem Triss ref.png",
